@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/language-python-yellow.svg)
-![](https://img.shields.io/badge/license-MIT-000000.svg)
+![](https://img.shields.io/badge/license-apache_2.0-000000.svg)
 ![](https://progress-bar.dev/100)
 
 # Titanic survivability prediction
