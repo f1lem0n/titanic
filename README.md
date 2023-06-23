@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/language-python-yellow.svg)
+![](https://img.shields.io/badge/license-MIT-000000.svg)
+![](https://progress-bar.dev/100)
+
 # Titanic survivability prediction
 
 This is a [kaggle competition](https://www.kaggle.com/competitions/titanic) project. The goal is to find the best model
